@@ -1,0 +1,6 @@
+/**
+ * NumberFromatException
+ */
+public class NumberFromatException {
+
+}
